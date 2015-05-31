@@ -23,10 +23,6 @@ Usage:
   perl $0 <input.fa>
 Function:
   Report the sequence ID and GC content, tab-separated
-Author:
-  Jerry Chen
-Last modified:
-  05/02/2015
 Release notes:
   \@version 1.0 beta version
 HELP
